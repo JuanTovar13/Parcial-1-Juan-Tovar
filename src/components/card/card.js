@@ -1,12 +1,5 @@
-async function loadCards() {
+function loadCards() {
     
-    try {
-        const response = await fetch("data.json");
-        const data = await response.json();
-
-    }  catch (error) {
-        console.error("Error cargando los datos:", error);
-    }
     
 
     items.forEach(item => {
@@ -22,5 +15,6 @@ async function loadCards() {
         card.setAttribute("alojamiento", item.alojamiento)
         card.setAttribute("guia_incluido", item.guia_incluido)
     });
-   
+   console.log("hola")
 }
+console.log("hola")
