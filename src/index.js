@@ -1,3 +1,3 @@
-import CardComponent from "./cardComponent.js"
+import CardComponent from "./components/cardComponent/cardComponent.js"
 
-customElements.define("cardContainer",CardComponent)
+customElements.define("card-component",CardComponent)
