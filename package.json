@@ -1,0 +1,19 @@
+{
+  "name": "parcial-1-juan-tovar",
+  "version": "1.0.0",
+  "description": "Juan Sebastian Tovar Monje",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanTovar13/Parcial-1-Juan-Tovar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanTovar13/Parcial-1-Juan-Tovar/issues"
+  },
+  "homepage": "https://github.com/JuanTovar13/Parcial-1-Juan-Tovar#readme"
+}
