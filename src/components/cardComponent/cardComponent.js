@@ -11,8 +11,11 @@ class CardComponent extends HTMLElement {
     render() {
         
 
-        this.shadowRoot.innerHTML = 
-    }
-}
+        this.shadowRoot.innerHTML = `
+        <div class="cardComponent">
+            
+        
+        </div>
+        `
 
 export default CardComponent;
