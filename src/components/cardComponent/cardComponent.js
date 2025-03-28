@@ -13,7 +13,7 @@ class CardComponent extends HTMLElement {
 
         this.shadowRoot.innerHTML = `
         <div class="cardComponent">
-            
+            <p class"destino">${item.destino} </p>
         
         </div>
         `
